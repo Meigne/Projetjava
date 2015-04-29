@@ -10,7 +10,7 @@ package projet;
  * @author Arnaud
  */
 public class PROJET {
-test au plus grand calme
+
         
     /**
      * @param args the command line arguments
