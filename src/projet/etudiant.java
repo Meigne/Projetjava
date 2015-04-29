@@ -9,14 +9,6 @@ package projet;
  *
  * @author Arnaud
  */
-public class PROJET {
-test au plus grand calme
-        
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class etudiant {
     
 }
